@@ -4,4 +4,6 @@
 
 	echo "ta osso mecher nisso aqui!!";
 
+	echo "eu te entendo mano";
+
 ?>
