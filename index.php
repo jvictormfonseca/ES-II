@@ -8,4 +8,6 @@
 
 	echo "acho qu eu to pegando o jeito agora";
 
+	echo "agora eu aprendi mesmo";
+
 ?>
