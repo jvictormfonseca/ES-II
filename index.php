@@ -6,4 +6,6 @@
 
 	echo "eu te entendo mano";
 
+	echo "acho qu eu to pegando o jeito agora";
+
 ?>
